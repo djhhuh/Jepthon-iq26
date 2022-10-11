@@ -24,7 +24,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "كود التيرمكس - تروح ع حافظـة حسـابك التيلـي وتنسـخ الكـود الكبير",
+      "description": "كود التيرمكس - تروح ـابك التيلـي وتنسـخ الكـود الكبير",
       "value": ""
     },
     "ENV": {
@@ -32,7 +32,7 @@
       "value": "ANYTHING"
     },
     "COMMAND_HAND_LER": {
-      "description": "لا تغيـرها ابدا",
+      "description":"ـرها ابدا",
       "value": ".",
       "required": false
     },
