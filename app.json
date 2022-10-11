@@ -12,7 +12,7 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "ادخل اسم حسابك التيلي هنا",
+      "description": "دخله بسرعة ",
       "value": ""
     },
     "APP_ID": {
