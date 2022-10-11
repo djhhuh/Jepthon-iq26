@@ -12,19 +12,19 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "ادخل اسم حسابك التيلي هنا",
+      "description": "دخلة  بسرعة ",
       "value": ""
     },
     "APP_ID": {
-      "description": "اب ايدي",
+      "description": " ايدي",
       "value": ""
     },
     "API_HASH": {
-      "description": "ايبي هاش",
+      "description": " هاش",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "كود التيرمكس - تروح ع حافظـة حسـابك التيلـي وتنسـخ الكـود الكبير",
+      "description": "كود التيرمكس - تروح ع حافظـة حسـابك نسـخ الكـود الكبير",
       "value": ""
     },
     "ENV": {
